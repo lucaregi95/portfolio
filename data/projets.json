@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "inclusion-bien-etre",
+    "titre": "Plateforme inclusion et bien-être",
+    "resume": "Application web PHP proposant des ressources et des activités autour de l'inclusion et du bien-être.",
+    "contexte": "Projet scolaire en équipe de X personnes, durée de X semaines.",
+    "besoin": "Décrire ici le cahier des charges : public visé, fonctionnalités attendues, contraintes d'accessibilité.",
+    "technologies": ["PHP", "MySQL", "HTML/CSS", "JavaScript", "Git"],
+    "organisation": "Répartition des tâches via Trello, versionnement avec Git/GitHub, points d'équipe hebdomadaires.",
+    "role": "Précisez ce que vous avez codé vous-même : pages, requêtes SQL, authentification, etc.",
+    "difficultes": "Décrire un problème rencontré (ex. gestion des sessions, conflits Git) et la solution apportée.",
+    "image": "assets/img/projets/inclusion.png",
+    "github": "https://github.com/votre-pseudo/inclusion-bien-etre",
+    "demo": ""
+  },
+  {
+    "slug": "site-cinema",
+    "titre": "Site de cinéma",
+    "resume": "Site PHP de consultation de films, de séances et de réservation.",
+    "contexte": "Projet scolaire en équipe de X personnes, durée de X semaines.",
+    "besoin": "Décrire ici le cahier des charges : catalogue de films, séances, réservation, espace administrateur.",
+    "technologies": ["PHP", "MySQL", "HTML/CSS", "JavaScript", "Git"],
+    "organisation": "Répartition des tâches, outils de collaboration, méthode de travail.",
+    "role": "Précisez votre part : modèle de données, pages développées, requêtes, tests.",
+    "difficultes": "Décrire un problème rencontré et la solution apportée.",
+    "image": "assets/img/projets/cinema.png",
+    "github": "https://github.com/votre-pseudo/site-cinema",
+    "demo": ""
+  },
+  {
+    "slug": "site-ecole",
+    "titre": "Site d'école",
+    "resume": "Site PHP de présentation d'un établissement : formations, actualités, espace de gestion.",
+    "contexte": "Projet scolaire en équipe de X personnes, durée de X semaines.",
+    "besoin": "Décrire ici le cahier des charges : pages publiques, gestion des actualités, rôles des utilisateurs.",
+    "technologies": ["PHP", "MySQL", "HTML/CSS", "JavaScript", "Git"],
+    "organisation": "Répartition des tâches, outils de collaboration, méthode de travail.",
+    "role": "Précisez votre part : fonctionnalités développées, base de données, sécurité.",
+    "difficultes": "Décrire un problème rencontré et la solution apportée.",
+    "image": "assets/img/projets/ecole.png",
+    "github": "https://github.com/votre-pseudo/site-ecole",
+    "demo": ""
+  }
+]

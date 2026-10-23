@@ -1,0 +1,34 @@
+[
+  {
+    "bloc": "Bloc 1 (épreuve E5)",
+    "titre": "Support et mise à disposition de services informatiques",
+    "competences": [
+      {"nom": "Gérer le patrimoine informatique", "projets": []},
+      {"nom": "Répondre aux incidents et aux demandes d'assistance et d'évolution", "projets": ["site-ecole"]},
+      {"nom": "Développer la présence en ligne de l'organisation", "projets": ["site-ecole", "site-cinema"]},
+      {"nom": "Travailler en mode projet", "projets": ["inclusion-bien-etre", "site-cinema", "site-ecole"]},
+      {"nom": "Mettre à disposition des utilisateurs un service informatique", "projets": ["inclusion-bien-etre"]},
+      {"nom": "Organiser son développement professionnel", "projets": []}
+    ]
+  },
+  {
+    "bloc": "Bloc 2 (épreuve E4)",
+    "titre": "Conception et développement d'applications",
+    "competences": [
+      {"nom": "Concevoir et développer une solution applicative", "projets": ["inclusion-bien-etre", "site-cinema", "site-ecole"]},
+      {"nom": "Assurer la maintenance corrective ou évolutive d'une solution applicative", "projets": ["site-cinema"]},
+      {"nom": "Gérer les données", "projets": ["inclusion-bien-etre", "site-cinema", "site-ecole"]}
+    ]
+  },
+  {
+    "bloc": "Bloc 3 (épreuve E6)",
+    "titre": "Cybersécurité des services informatiques",
+    "competences": [
+      {"nom": "Protéger les données à caractère personnel", "projets": ["inclusion-bien-etre"]},
+      {"nom": "Préserver l'identité numérique de l'organisation", "projets": []},
+      {"nom": "Sécuriser les équipements et les usages des utilisateurs", "projets": []},
+      {"nom": "Garantir la disponibilité, l'intégrité et la confidentialité des services informatiques et des données de l'organisation face à des cyberattaques", "projets": []},
+      {"nom": "Assurer la cybersécurité d'une solution applicative et de son développement", "projets": ["site-cinema", "site-ecole"]}
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "methode": "Je consulte mes sources environ deux fois par semaine via un lecteur de flux RSS (Feedly) et des alertes Google. Je note ensuite les articles utiles avec un résumé personnel.",
+  "sujets": [
+    {"titre": "Cybersécurité web", "description": "Failles du top 10 OWASP (injection SQL, XSS, CSRF) et bonnes pratiques pour les éviter en PHP.", "sources": ["ANSSI", "OWASP", "CERT-FR"]},
+    {"titre": "Évolution de PHP", "description": "Nouveautés de PHP 8.x et frameworks (Laravel, Symfony).", "sources": ["php.net", "Stitcher.io", "Laravel News"]},
+    {"titre": "IA et développement", "description": "Assistants de code et impact sur le métier de développeur.", "sources": ["Dev.to", "Korben"]}
+  ],
+  "articles": [
+    {"date": "2026-01-15", "titre": "Titre de l'article", "source": "Nom de la source", "url": "https://exemple.fr", "resume": "Votre résumé en 2 ou 3 phrases : ce que dit l'article et pourquoi il vous est utile."}
+  ]
+}
